@@ -3,7 +3,7 @@
 
 //Reserved words in javascript 
 
-//naming convention //javascript er namnekoron
+//naming convention //javascript er namekoron
 var myname = 'Riajul'  //camalCase
 var my_name = 'Riajul' //(_)underscore
 
