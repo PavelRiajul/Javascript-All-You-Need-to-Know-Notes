@@ -23,6 +23,6 @@
 
 //..........................................
 //Array.from()-> use korbo akta array theke arekta array create korar jonno
-var arr = [2,3,4,6,8]
-var arr2 = Array.from(arr)
-console.log(arr2)
+// var arr = [2,3,4,6,8]
+// var arr2 = Array.from(arr)
+// console.log(arr2)
