@@ -47,7 +47,7 @@
 
 
 //.............................................................................
-//Array filter() method
+//Array filter() method -> array.filter(callbackFunction)
 //The javascript array filter() method filter and extract the element of an array that satisfying the provided condition.
 // filter() method er kaj holo kono item ke khuje ber kora.
 //exmple: marks array er bitor je item gola 50 theke boro oi item gola return korbe.
