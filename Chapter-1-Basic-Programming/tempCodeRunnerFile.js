@@ -1,1 +1,1 @@
-console.log(Number(str))
+var obj = new Day()
