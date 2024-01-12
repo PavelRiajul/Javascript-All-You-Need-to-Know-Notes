@@ -1,4 +1,8 @@
-//what is array
+//what is array?
+//javascript array is an object that represents a collection of similar type of elements.
+//Array index number 0 theke start.
+//Array index number dore dore  define korte hoy.
+
 //Array is a Data Structure where we can organize multiple data under a single variable.
 //Array holo akta data structure jekhane amader data goloke structured obosthai rakhte pari.akta variable 
 //er under a onek golo data rakhte pari.

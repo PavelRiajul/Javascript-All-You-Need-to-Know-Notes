@@ -1,4 +1,5 @@
 //if condition
+//it evelute the content only if expression is true. -> if condition just true return korbe.
 var a = 10
 var b = 20
 //amra comparison korbo a boro naki b boro

@@ -1,4 +1,6 @@
 //while loop
+// The javascript while loop iterates the elements for the infinte number of times.it should be used if number of iteration is not known.
+
 // jodi first time a condition false hoi tahole loop er body er bitore kono code execude hobe na.
 // inisilizer variable ->var i = 0
 //while(condition){

@@ -1,5 +1,7 @@
 //Object
-//what is Object
+//what is Object?
+// A javascript object is an entry having state and behabior(properties and method)
+
 // object hocchi special data-type. je data-type amra amader moto kore define korte pari.
 //array te item golo index number deye define korte hoy.ae jonno array te item golo seriyal thik rakha jorori.
 //object er khetre  prottek ta datar name koron korte parbo.index number mone rakha lagbe na.

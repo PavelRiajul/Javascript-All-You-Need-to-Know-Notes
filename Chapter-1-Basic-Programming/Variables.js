@@ -1,4 +1,5 @@
 //variables
+//A javascript variable is simply a name of storage location.
 //variable  mane data store kore rakha. amra program a je kono data variable a store kore rakhte pari.
 var name = 'Riajul islam'
 var age = 22;

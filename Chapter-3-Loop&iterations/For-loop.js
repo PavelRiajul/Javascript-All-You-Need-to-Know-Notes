@@ -1,15 +1,9 @@
-//Loops are Statements which Execute some block of code repeatedly until the condition becomes flase
-//loop holo akta satement je statement ta use kora hoy repeateted task gula reduce korar jonno.
-//loops & and Conditions are Two main fundamental concepts core programming.
-
-//There are mainly Three types of Loops
-//(1)For loop
-//(2)while Loop
-//(3)do while loop
 
 //**********************For loops************************************* */
+//The javascript for loop iterate the elements for the fixed number of times.it should be used if number of iteration is khown.
+
 //for(initializer->koto theke start hobe->variable a decleare korbo;condition;increment(i+=100)100 kore barabo,abar 1 kore o barate parbo){
-//
+// body --> body er bitore code golo bar bar re execute hobe,ba bar bar gorbe.
 //}
 //jodi amar nname ta 100 bar console a print korte chai.
 // for(var i = 0; i<100;i++){

@@ -1,4 +1,5 @@
 //else if condition 
+//it evaluates the content only if expression is true from several expressions.
 //jokhon ami multiple condition use korbo
 
 var a = 10;

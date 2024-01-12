@@ -1,4 +1,5 @@
 //if else condition
+//it evalutes the content weather condition is true of false-> aeta just true or flase return korbe.
 //jokhon ami 2 ta condition use korbo
 
 var a = 10

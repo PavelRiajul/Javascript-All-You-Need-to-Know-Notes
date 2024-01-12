@@ -1,5 +1,5 @@
 //Arithmetic operator
-//  + - * / %   ++(increment)  --(decrement)
+//  +(Addition), -(subtraction), *(Multiplication), /(Divison) % (Modulus/Remainder)  ++(increment) , --(decrement)
 
 //%(remainder)
 //vagsesh ber korbo

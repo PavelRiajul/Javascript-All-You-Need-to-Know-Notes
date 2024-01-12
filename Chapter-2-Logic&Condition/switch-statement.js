@@ -1,4 +1,5 @@
 //switch statement
+//The javascript switch statement is used to execute one code from multiple expressions. it is just like else if statement.
 var date = new Date()
 //logic 0->sunday, 1->monday ,2->Tuesday
 var today = date.getDay()
