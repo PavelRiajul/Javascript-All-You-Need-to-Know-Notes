@@ -15,7 +15,7 @@
 
 
 //............................................................
-//amra entries() method  -->  akta 2 dimentional array return korbe. prottek ta array er element hobe akekta kore array. and ae array er bitore  keys and value hobe.
+// entries() method  -->  akta 2 dimentional array return korbe. prottek ta array er element hobe akekta kore array. and ae array er bitore  keys and value hobe.
 //console.log(Object.entries(obj))
 
 //............................................
