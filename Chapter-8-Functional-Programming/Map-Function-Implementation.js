@@ -15,6 +15,7 @@
 //console.log(sqrArr)
 
 
+//..................................................
 //Map Function amra create korbo kivabe
 //akhon amra map function implement korbo
 
