@@ -1,4 +1,5 @@
 // Foreach Implementation
+//forEach hocche orginal array te ke modify kore
 //  amader ke jodi akta array Travers korte bola hoy, tahole amra see array takee akta for loop chaleye  khob sohojee Travers korte pari. kinto ae way ta functional way na.
 //are javascript a amra sobsomoy ae  functional way ta kee pradanno deye thakee. er karone amader code ta useable hoy,managable hoy and khob sohojee jekeo code ta bojte pari.
 
@@ -35,7 +36,7 @@ function forEachImplement(arr,cb){
 //sum korbo
 var sum = 0;
 forEachImplement(arr,function(value,index,arr){
-    console.log(value,index,arr)
+    //console.log(value,index,arr)
     sum += value
 })
 //console.log(sum)
@@ -48,4 +49,4 @@ forEachImplement(arr,function(value,index,arr){
 forEachImplement(arr,function(value,index,arr){
     arr[index] =value + 5
 })
-console.log(arr)
+//console.log(arr)
