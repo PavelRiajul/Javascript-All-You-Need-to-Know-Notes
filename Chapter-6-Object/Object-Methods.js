@@ -38,3 +38,8 @@ var obj2 = Object.assign({},obj1)
 obj2.x=300
 console.log(obj1) //obj1 change hobe na
 console.log(obj2)
+
+var obj2 = Object.assign({},obj1)
+obj2.x=300
+console.log(obj1) //obj1 change hobe na
+console.log(obj2)
